@@ -1,0 +1,128 @@
+#background{
+	background-image: url("../img/night.jpg");
+	background-position: center;
+	padding: 15%;
+}
+#jumbotron{
+	background-image: url("../img/city.jpeg");
+}
+#intro{
+	font-size: 28px;
+	font-family: "Joti One"; 
+
+	color: cyan;
+
+}
+#picture{
+	flex: right;
+}
+.jumbotron{
+	background-image: url("../img/city.jpeg");
+}
+#amazing{
+	font-family: "Joti One";
+	color: white;
+	font-size: 46px;
+	text-align: center;
+}
+.header{
+	text-align: center;
+	color: white;
+	font-size: 46px;
+	font-family: "Joti One"; 
+}
+
+#back{
+	background-image: url("../img/night.jpg");
+	background-position: center;
+	padding: 15%;
+}
+#picture{
+	padding: 1px;
+}
+#flower{
+	background-image: url(../img/night.jpg);
+	background-position: center;
+	padding: 15%;
+}
+.h{
+	text-align: center;
+	color: white;
+	font-family: "Joti One";
+	font-size: 40px;
+}
+.food{
+	text-align: center;
+	color: white ;
+	font-family: "Joti One";
+	font-size: 50px;
+}
+.tired{
+	font-size: 40px;
+	font-family: "Joti One";
+	text-align: center;
+	color: white;
+}
+.buttons{
+	text-align: center;
+}
+.confused{
+	background-image: url(../img/night.jpg);
+	background-position: center;
+	padding: 15%;
+}
+.p{
+	font-size: 50px;
+	font-family: "Joti One";
+	font-stretch: unset;
+	color: cyan;
+}
+.closing{
+	font-size: 50px;
+	font-family: "Joti One";
+	font-stretch: unset;
+	color: cyan;	
+	text-align: center;
+}
+#b{
+	background-image: url(../img/night.jpg);
+	background-position: center;
+	padding: 15%;
+}
+.quote{
+	font-size: 30px;
+	font-family: "Joti One";
+	font-stretch: unset;
+	color: cyan;
+	
+}
+.con{
+		font-size: 50px;
+	font-family: "Joti One";
+	font-stretch: semi-expanded;
+	color: cyan;
+	
+
+}
+#food{
+	background-image: url(../img/night.jpg);
+	background-position: center;
+	padding: 15%;
+}
+#trees{
+	background-image: url(../img/night.jpg);
+	background-position: center;
+	padding: 15%;
+}
+.ti{
+	font-family: "Joti One";
+	font-size: 50px;
+	color: cyan;
+	text-align: center;
+}
+.tir{
+	font-family: "Joti One";
+	font-size: 50px;
+	color: cyan;
+	text-align: center;
+}
